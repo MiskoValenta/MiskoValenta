@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m a high school IT student, aiming to become a full-stack developer<br>🔭 I’m currently working on a PE-focused web app<br>🌱 I’m currently learning C# and advanced web development<br>👯 I’m looking to collaborate on full-stack and backend projects<br>💬 Ask me about web development
+🎓 I’m a high school IT student, aiming to become a full-stack developer<br>🔭 I’m currently working on a Volleyball-focused web app<br>🌱 I’m currently learning C# and advanced web development<br>👯 I’m looking to collaborate on full-stack and backend projects<br>💬 Ask me about web development
 
 
 ## 🌐 Socials:
